@@ -4,9 +4,9 @@
 
 Data first 
 
-- 🔭 I’m currently working on screenshots app database
-- 🌱 I’m currently learning AWS and Spark 
-- 👯 I’m looking to collaborate on data engineer Projects
+- 🔭 I’m currently developing an app database.
+- 🌱 I’m currently learning AWS and Spark.
+- 👯 I’m looking to collaborate on data engineer projects.
 - 💬 Talk to me about  Food, Formula 1 :racing_car:, Memes, anything that interests you.
 
 ### My skills include
