@@ -4,7 +4,6 @@
 
 "Data first" 
 
-- 🔭 I’m currently developing an app database.
 - 🌱 I’m currently learning AWS and Spark.
 - 👯 I’m looking to collaborate on data engineer projects.
 - 💬 Talk to me about  food, Formula 1 :racing_car:, memes, or anything else that interests you.
