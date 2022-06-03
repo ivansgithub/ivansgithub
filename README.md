@@ -18,4 +18,4 @@
 </p>
 
 
-[![bot](https://user-images.githubusercontent.com/82000274/171852513-60977e74-f5d6-43ef-8d74-beed1fd17de4.png)](https://github.com/ivansgithub/Bot-Twitter)
+[![bot](https://user-images.githubusercontent.com/82000274/171852513-60977e74-f5d6-43ef-8d74-beed1fd17de4.png)](https://github.com/ivansgithub/Bot-Twitter/blob/main/README_bot.md)
